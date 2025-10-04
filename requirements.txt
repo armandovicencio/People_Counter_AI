@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+streamlit==1.28.0
+opencv-python==4.8.1.78
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.200
+easyocr==1.7.0
+pytesseract==0.3.10
+Pillow==10.0.1
+pandas==2.1.1
+plotly==5.15.0
+geopy==2.3.0
+numpy==1.24.3
+ffmpeg-python==0.2.0
+scipy==1.11.1
+=======
+streamlit==1.28.0
+opencv-python==4.8.1.78
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.200
+easyocr==1.7.0
+pytesseract==0.3.10
+Pillow==10.0.1
+pandas==2.1.1
+plotly==5.15.0
+geopy==2.3.0
+numpy==1.24.3
+ffmpeg-python==0.2.0
+scipy==1.11.1
+>>>>>>> de9629d342de615f03e0a042d37f165b817b3a5f
+streamlit-option-menu==0.3.2
